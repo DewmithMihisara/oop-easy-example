@@ -3,6 +3,6 @@ public class Gsd extends Dog implements Animal{
     // Usage of polimopism
     @Override
     public void sound() {
-        System.out.println("Baw");
+        System.out.println("Baw..");
     }
 }
